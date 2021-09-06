@@ -1,3 +1,39 @@
-*{
-    background-color: salmon;
+* {
+  background-color: seashell;
+  margin: 0;
+}
+.container {
+  border: solid 1px black;
+  margin: auto;
+  height: 80vh;
+  width: 80vw;
+  margin: auto;
+  position: relative;
+}
+
+.mainBox {
+  border: solid 1px black;
+  height: 25vh;
+  width: 40vw;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+.sideBox {
+  border: solid 1px black;
+  height: 25vh;
+  width: 20vw;
+  margin-left: 70%;
+  margin-top: -33%;
+  margin-left: 30;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    margin-bottom: 5px;
+}
+.subText{
+    margin-left: 50%;
+    margin-top: -45%;
 }
